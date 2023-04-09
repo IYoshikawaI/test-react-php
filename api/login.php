@@ -1,6 +1,6 @@
 <?php
 
-header("Access-Control-Allow-Origin: http://localhost:5173/");
+header("Access-Control-Allow-Origin: https://iyoshikawai.github.io/test-react-php/");
 header("Access-Control-Allow-Headers: Content-Type");
 
 $request = file_get_contents("php://input");
